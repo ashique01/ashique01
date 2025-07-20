@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ashique-portfolio.netlify.app/](https://ashique-portfolio.netlify.app/)
 
-- 📝 I regularly write articles on [(https://www.linkedin.com/in/ashique-murad-07834b120]((https://www.linkedin.com/in/ashique-murad-07834b120)
+- 📝 I regularly write articles on [(Linkedin]((https://www.linkedin.com/in/ashique-murad-07834b120)
 
 - 💬 Ask me about **Backend Development, Node.js, Python Projects, MERN Stack, AI Tools, and Open Source Contributions**
 
