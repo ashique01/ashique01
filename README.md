@@ -1,48 +1,247 @@
-<h1 align="center">Hi 👋, I'm Ashique Murad</h1>
-<h3 align="center">A passionate frontend developer Backend Developer | MERN Stack | Python Enthusiast | Open Source Contributorfrom India</h3>
+<div align="center">
+  
+  <!-- Header Animation -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20👋,%20I'm%20Ashique%20Murad&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+  
+  <!-- Animated Typing Effect -->
+  <div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=🚀+Passionate+Frontend+%26+Backend+Developer;🔥+MERN+Stack+%7C+Python+Enthusiast+%7C+Open+Source+Contributor;🌍+From+India+with+Love+for+Code" alt="Typing SVG" />
+  </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashique01&label=Profile%20views&color=0e75b6&style=flat" alt="ashique01" /> </p>
+  <!-- Profile Views Counter with Beautiful Style -->
+  <div align="center" style="margin: 20px 0;">
+    <img src="https://komarev.com/ghpvc/?username=ashique01&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/ashique01?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
+    <a href="https://twitter.com/ashique_murad">
+      <img src="https://img.shields.io/twitter/follow/ashique_murad?logo=twitter&style=for-the-badge&color=1DA1F2" alt="Twitter Follow" />
+    </a>
+  </div>
 
-<p align="left"> <a href="https://twitter.com/ashique_murad" target="blank"><img src="https://img.shields.io/twitter/follow/ashique_murad?logo=twitter&style=for-the-badge" alt="ashique_murad" /></a> </p>
+</div>
 
-- 🔭 I’m currently working on [MERN Stack Projects and AI Tools](https://hauntedbd.netlify.app/)
+---
 
-- 🌱 I’m currently learning **Node.js, Express.js, and Backend Development**
+<div align="center">
 
-- 👯 I’m looking to collaborate on **Open Source & Backend Projects**
+## 🎯 **About Me**
 
-- 🤝 I’m open for **freelancing & collaborations**
+</div>
 
-- 👨‍💻 All of my projects are available at [https://ashique-portfolio.netlify.app/](https://ashique-portfolio.netlify.app/)
+<table align="center">
+<tr>
+<td width="50%">
 
-- 📝 I regularly write articles and share insights on [LinkedIn](https://www.linkedin.com/in/ashique-murad-07834b120/)
+### 🚀 **Current Focus**
+- 🔭 Working on [**MERN Stack Projects & AI Tools**](https://hauntedbd.netlify.app/)
+- 🌱 Mastering **Node.js, Express.js & Backend Development**
+- 👯 Open to collaborate on **Open Source & Backend Projects**
+- 🤝 Available for **freelancing & collaborations**
 
-- 💬 Ask me about **Backend Development, Node.js, Python Projects, MERN Stack, AI Tools, and Open Source Contributions**
+</td>
+<td width="50%">
 
-- 📫 How to reach me **ashiquemurad@gmail.com**
+### 💡 **Quick Facts**
+- 👨‍💻 Portfolio: [**ashique-portfolio.netlify.app**](https://ashique-portfolio.netlify.app/)
+- 📝 Active on [**LinkedIn**](https://www.linkedin.com/in/ashique-murad-07834b120/)
+- 📫 Reach me: **ashiquemurad@gmail.com**
+- ⚡ Fun fact: **I love exploring deep tech while enjoying fuchka and fast food** 🍜
 
-- ⚡ Fun fact **I love exploring deep tech and real-world problem-solving by eating fuchka and fastfood**
+</td>
+</tr>
+</table>
 
-### Blogs posts
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/https://dev.to/ashriko7432" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/ashriko7432" height="30" width="40" /></a>
-<a href="https://twitter.com/ashique_murad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashique_murad" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://linkedin.com/in/ashique-murad-07834b120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/ashique-murad-07834b120" height="30" width="40" /></a>
-<a href="https://fb.com/www.facebook.com/ash.riko01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="www.facebook.com/ash.riko01" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/45h1qu31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/45h1qu31" height="30" width="40" /></a>
-<a href="https://hashnode.com/https://hashnode.com/@riko01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@riko01" height="30" width="40" /></a>
-<a href="https://discord.gg/riko7286" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="riko7286" height="30" width="40" /></a>
+---
+
+<div align="center">
+
+## 💬 **Ask Me About**
+
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/000000/javascript.png" width="48" height="48" alt="Backend"/>
+<br/><strong>Backend Development</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/000000/nodejs.png" width="48" height="48" alt="Node.js"/>
+<br/><strong>Node.js</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/000000/python.png" width="48" height="48" alt="Python"/>
+<br/><strong>Python Projects</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/000000/react-native.png" width="48" height="48" alt="MERN"/>
+<br/><strong>MERN Stack</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="48" height="48" alt="AI"/>
+<br/><strong>AI Tools & Open Source</strong>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 **Connect With Me**
+
+<div align="center">
+  <a href="https://dev.to/ashriko7432" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
+  </a>
+  <a href="https://twitter.com/ashique_murad" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://linkedin.com/in/ashique-murad-07834b120" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/ash.riko01" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.instagram.com/45h1qu31" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://hashnode.com/@riko01" target="_blank">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/>
+  </a>
+  <a href="https://discord.gg/riko7286" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</div>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🛠️ **Tech Stack & Tools**
+
+### **Languages**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cs" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### **Frontend Technologies**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,bootstrap,tailwind,figma" />
+</p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/ashiquemurt"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/ashiquemurt" /></a><a href="https://ko-fi.com/ko-fi.com/ashiquemurad"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com/ashiquemurad" /></a></p><br><br>
+### **Backend Technologies**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,firebase,docker" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashique01&show_icons=true&locale=en&layout=compact" alt="ashique01" /></p>
+### **Tools & Platforms**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,heroku,jenkins,linux" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashique01&show_icons=true&locale=en" alt="ashique01" /></p>
+### **Data Science & ML**
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashique01&" alt="ashique01" /></p>
+</div>
+
+---
+
+<div align="center">
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashique01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashique01&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashique01&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashique01&theme=tokyo-night&bg_color=1a1b27&color=be90f2&line=638fda&point=35bcbf&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+</div>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 **GitHub Trophies**
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ashique01&theme=tokyonight&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophies" />
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+## ☕ **Support My Work**
+
+<p align="center">If you like my work and want to support me, consider buying me a coffee!</p>
+
+<div align="center">
+  <a href="https://buymeacoffee.com/ashiquemurt" target="_blank">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+  <a href="https://ko-fi.com/ashiquemurad" target="_blank">
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
+  </a>
+</div>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💫 **Quote of the Day**
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/>
+</div>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 **Watch My Contribution Snake**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashique01/ashique01/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashique01/ashique01/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ashique01/ashique01/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+  
+  <!-- Footer Animation -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+  
+  <p style="margin-top: 20px;">
+    <strong>⭐ Don't forget to star my repositories if you find them useful! ⭐</strong>
+  </p>
+  
+  <p>
+    <em>"Code is like humor. When you have to explain it, it's bad." - Cory House</em>
+  </p>
+  
+</div>
