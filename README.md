@@ -32,7 +32,7 @@
 <td width="50%">
 
 ### 🚀 **Current Focus**
-- 🔭 Working on [**MERN Stack Projects & AI Tools**](https://hauntedbd.netlify.app/)
+- 🔭 Working on [**Product Operations at Chaldal**](https://hauntedbd.netlify.app/)
 - 🌱 Mastering **Node.js, Express.js & Backend Development**
 - 👯 Open to collaborate on **Open Source & Backend Projects**
 - 🤝 Available for **freelancing & collaborations**
